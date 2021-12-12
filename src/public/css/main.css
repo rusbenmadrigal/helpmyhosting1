@@ -6,6 +6,12 @@
   border-color: #ffffff !important;
 }
 
+.btn.btn-primary {
+    background: #141d2a !important;
+    border: 1px solid #19bc9b !important;
+    color: #fff !important;
+}
+
 /* END CUSTOM CSS */
 
 
